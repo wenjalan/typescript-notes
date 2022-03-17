@@ -1,6 +1,6 @@
 # Chapter 0: Setup
 ## Installation and Configuration
-To use yypescript with Node, install it onto a project.
+To use TypeScript with Node, install it onto a project.
 
 ```
 $ npm install -D typescript
